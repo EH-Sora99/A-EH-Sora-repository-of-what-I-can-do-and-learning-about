@@ -4,9 +4,11 @@
 
 ## C#
 * Make a HelloWorld.cs
+(.NET Core issues)
 
 ## C++
 * Make a HelloWorld.cpp
+(Build issues)
 
 ## COBOL
 * Make a HelloWorld.cob
